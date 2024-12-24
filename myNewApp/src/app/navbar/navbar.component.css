@@ -1,4 +1,3 @@
-/* For WebKit browsers (like Chrome and Safari) */
 ::-webkit-scrollbar {
     width: 5px;
   }
@@ -8,16 +7,9 @@
     border-radius: 6px;
   }
   
-  /* For Firefox */
-  /* Note: Firefox currently (as of my knowledge cutoff in January 2022) supports a more limited set of styles */
-  /* You might need to enable `layout.css.scrollbar-color.enabled` in `about:config` for Firefox to recognize these styles */
   * {
     scrollbar-color: #111111 #f0f0f0;
   }
-  
-  /* For IE and Edge */
-  /* Note: Microsoft Edge (as of my knowledge cutoff in January 2022) doesn't support full customization like other browsers */
-  /* However, you can change the color of the scrollbar */
   * {
     scrollbar-face-color: #4F46E5;
   }
