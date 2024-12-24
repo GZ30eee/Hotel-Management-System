@@ -1,0 +1,25 @@
+{
+  "name": "hotel-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keywords: hotel, management, system",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GZ30eee/Hotel-Management-System.git"
+  },
+  "keywords": [
+    "keywords:",
+    "hotel",
+    "management",
+    "system"
+  ],
+  "bugs": {
+    "url": "https://github.com/GZ30eee/Hotel-Management-System/issues"
+  },
+  "homepage": "https://github.com/GZ30eee/Hotel-Management-System#readme",
+  "description": ""
+}
